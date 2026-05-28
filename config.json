@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyferify",
+        "uuid": 26358780,
+        "checksum": "4wo7tl"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
